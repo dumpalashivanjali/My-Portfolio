@@ -81,7 +81,7 @@ const App = () => {
 
       {/* Left Icons - Hidden on mobile */}
       <div className="hidden md:flex fixed left-6 top-1/2 transform -translate-y-1/2 z-40 flex-col gap-5 text-yellow-400 text-xl">
-        <a href="https://github.com/Anjali85220/" target="_blank" rel="noreferrer"><FaGithub /></a>
+        <a href="https://github.com/dumpalashivanjali/" target="_blank" rel="noreferrer"><FaGithub /></a>
         <a href="https://www.linkedin.com/in/shivanjali-dumpala-9a1776258" target="_blank" rel="noreferrer"><FaLinkedin /></a>
       </div>
 
@@ -116,7 +116,7 @@ const App = () => {
 
         {/* Social Links - Show on mobile */}
         <div className="flex md:hidden gap-6 text-yellow-400 text-2xl">
-          <a href="https://github.com/Anjali85220/" target="_blank" rel="noreferrer"><FaGithub /></a>
+          <a href="https://github.com/dumpalashivanjali/" target="_blank" rel="noreferrer"><FaGithub /></a>
           <a href="https://www.linkedin.com/in/shivanjali-dumpala-9a1776258" target="_blank" rel="noreferrer"><FaLinkedin /></a>
         </div>
 
@@ -423,7 +423,7 @@ const App = () => {
 
             <div className="space-y-4 mt-6">
               <p className="text-sm md:text-base">
-                📧 <a href="mailto:shivanjalidumpala8@gmail.com" className="text-yellow-400 hover:underline break-all">shivanjalidumpala8@gmail.com</a>
+                📧 <a href="mailto:dumpalashivanjali8@gmail.com" className="text-yellow-400 hover:underline break-all">dumpalashivanjali8@gmail.com</a>
               </p>
               <p className="text-sm md:text-base">
                 📱 <a href="tel:+918522061936" className="text-yellow-400 hover:underline">+91 85220 61936</a>
@@ -432,7 +432,7 @@ const App = () => {
 
             {/* Social links */}
             <div className="mt-6 flex justify-center gap-4 text-yellow-400 text-xl md:text-2xl">
-              <a href="https://github.com/Anjali85220/" target="_blank" rel="noreferrer">
+              <a href="https://github.com/dumpalashivanjali/" target="_blank" rel="noreferrer">
                 <FaGithub />
               </a>
               <a href="https://www.linkedin.com/in/shivanjali-dumpala-9a1776258" target="_blank" rel="noreferrer">
