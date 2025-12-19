@@ -445,7 +445,7 @@ const App = () => {
 
       {/* Footer */}
       <footer className="bg-black/70 backdrop-blur-md p-4 text-center text-white">
-        <p className="text-sm">© 2024 Shivanjali Dumpala. All rights reserved.</p>
+        <p className="text-sm">© 2025 Shivanjali Dumpala. All rights reserved.</p>
       </footer>
     </div>
   );
