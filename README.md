@@ -8,7 +8,7 @@ Welcome to my personal developer portfolio website built with **React** and **Ta
 
 ## 🚀 Live Preview
 
-> 🌐 [View My Portfolio Online](https://shivanjali-portfolio.vercel.app/)
+> 🌐 [View My Portfolio Online](https://my-portfolio-six-sigma-93.vercel.app/)
 
 
 ## 🧰 Tech Stack
